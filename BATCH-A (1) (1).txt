@@ -1,0 +1,105 @@
+PRODUCT BACKLOG
+ISSUE
+100-200 [ 180 S, 15 BUGS, 5 TASKS] 
+
+......................epic..........
+> STORY ( SUB-TASK)
+> TASK: INDEPENDENT ACTIVITY
+> BUG: 
+========================================================
+sprint 1 [ 2- 3 week]
+
+> 1 story (2 sub-task) , storypoint, version, component
+Do not give the original time estimate to the story
+Open the sub-task 1 : check:original time estimate,version, component
+Open the sub-task 2 : check:original time estimate,version, component
+> 1 task:check:original time estimate,version, component,Epic link
+> 1 bug :check:original time estimate,version, component,Epic link
+==========================================================
+
+
+
+GIVE ALL THREE ISSUES EPIC LINK
+--------------------------------------------------------
+Q. START THE SPRINT
+
+> START DATE, END DATE
+> SPRINT GOAL
+> DURATION 
+
+CLICK ON SAVE
+
+... EDIT , DELETE SPRINT  
+
+===========================================================
+Q. IN THE SPRINT 1
+STORY : STATUS TO DO::::: IN PROGRESS
+NOW, IN THAT SUB=TASK
+SUB=TASK1:STATUS TO DO::::: IN PROGRESS
+SUB=TASK2:STATUS TO DO::::: IN PROGRESS
+====================================================
+Q. IN SUB=TASK1: ENTER THE TIME TRACKING FIELD
+SO, CHECK THE REMAINING TIME
+   IN SUB=TASK2: ENTER THE TIME TRACKING FIELD
+SO, CHECK THE REMAINING TIME
+
+Q. rEPEAT THE SAME  (STATUS TO DO::::: IN PROGRESS,
+                   ENTER THE TIME TRACKING FIELD)
+FOR THE TASK AND THE BUG ALSO IN THE SPRINT 1
+====================================================
+
+
+GRAPHICAL ANALYSIS
+
+BURNDOWN/UP, 
+SPRINT REPORT, 
+VELOCITY CHART
+
+BURNDOWN
+> REMAINING TIME
+> ISSUE COUNT
+> STORY POINT
+======================================
+SPRINT REPORT: EXCEL SHEET FOR SUMMARY OF SPRINT
+
+VELOCITY CHART
+
+AFTER THE SPRINT IS CLOSED, THEN IT IS ANALYSED
+THIS BAR GRAPH SHOWS THE AMOUNT OF WORK COMMITTED 
+AND WORK COMPLETED
+
+
+
+
+
+
+SPRINT 1
+Q. nOW, IN THE SUB-TASK 1, EDIT THE TIME TRACKING, THEN
+READ THE BURNDOWN W.R.T REMAINING TIME
+Q. IN THE TASK, COMPLETE THE WORK,COMPLETE TIME TRACKING
+CHANGE THE STATUS AS :::DONE
+NOW, OBSERVE BURNDOWN W.R.T REMAINING TIME
+                      W.R.T ISSUE COUNT               
+NOW, OBSERVE BURNUP W.R.T ISSUE COUNT
+Q. IN THE BUG, COMPLETE THE WORK,COMPLETE TIME TRACKING
+CHANGE THE STATUS AS :::DONE
+NOW, OBSERVE BURNDOWN W.R.T REMAINING TIME
+                      W.R.T ISSUE COUNT                
+NOW, OBSERVE BURNUP W.R.T ISSUE COUNT
+Q. nOW, IN THE SUB-TASK 2, EDIT THE TIME TRACKING, THEN
+READ THE BURNDOWN W.R.T REMAINING TIME
+
+
+
+>>>>>>>>>> COMPLETE THE SPRINT AND CHECK THE VELOCITY CHART
+
+
+
+
+
+
+
+
+
+SPRINT BACKLOG
+
