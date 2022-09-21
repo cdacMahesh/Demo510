@@ -1,0 +1,158 @@
+SDLC PROCESS N SDLC MODELS
+
+AGILE MODEL
+
+SCRUM
+
+> SPRINT
+> PRODUCT BACKLOG
+> SPRINT BACKLOG
+> TYPES OF ISSUES
+   STORY, TASK, BUG, EPIC
+> ROLES, CEREMONIES, ARTIFACTS
+
+
+PRODUCT BACKLOG
+ REQUIREMENTS OF PRODUCT/PROJECT
+ 
+
+FEATURES OF PRODUCT written IN THE form of ISSUES
+TYPES OF ISSUES
+  EPIC: For e-commerce website, 
+  the user should be able to buy items
+  story (sub-task)NEW USER CAN REGISTER ON WEBSITE
+> REGISTERED USER CAN BROWSE THE ITEMS
+> REGISTERED USER CAN ADD ITEMS TO CART
+> REGISTERED USER CAN MAKE THE PAYMENT FOR ADDED ITEMS
+  
+  Task: External library update
+  
+  bug : dataserver storage limit
+
+
+component
+front end , back end, mobile develop.
+alpha, beta,gamma
+
+> Create two components 
+front end , back end
+give the component name, description 
+...    edit/ delete
+==================================================
+
+
+
+version : decides the release dates
+1 yr---------version-1 [student]
+2 yr---------version-2  [teacher +admin]
+final version release
+
+Q. create 2 versions for your project
+version-1
+version-2
+Give name, date, description
+...>>>>edit, delete, release
+
+
+Q. 
+
+
+
+
+Q. CREATE THE PRODUCT BACKLOG IN TERMS OF ISSUES
+1 EPIC
+4 STORIES
+1 TASK
+1 BUG
+REFER THE FEATURES FROM CHAT
+Q. PRODUCT BACKLOG
+
+Q. SPRINT BACKLOG
+ 
+PLAN THE SPRINT BACKLOG
+
+
+
+
+
+
+
+
+Q. CREATE SPRINT
+4 SPRINT : CREATE SPRINT BUTTON ON BACKLOG
+
+* DRAG THE ISSUES FROM THE BACKLOG INTO 
+RESPECTIVE SPRINTS
+
+sO, FINALLY PLAN THE ENTIRE ISSUE AND 
+CREATE THE SPRINT BACKLOG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHOPPING WEBSITE
+> NEW USER CAN REGISTER ON WEBSITE
+> REGISTERED USER CAN BROWSE THE ITEMS
+> REGISTERED USER CAN ADD ITEMS TO CART
+> REGISTERED USER CAN MAKE THE PAYMENT FOR ADDED ITEMS
+
+SPRINT BACKLOG
+S1:NEW USER CAN REGISTER ON WEBSITE(APR.)
+S2:REGISTERED USER CAN BROWSE THE ITEMS(MAY)
+S3:REGISTERED USER CAN ADD ITEMS TO CART(JUNE)
+S4:REGISTERED USER CAN MAKE THE PAYMENT 
+FOR ADDED ITEMS(JULY)
+
+
+
+
+
+PGSEP22.atlassian.net
+
+Q. CREATE A NEW PROJECT
+SCRUM TEMPLATE [ COMPANY- MANAGED TYPE]
+
+Q. Q. CREATE Another NEW PROJECT
+SCRUM TEMPLATE [ TEAM- MANAGED TYPE]
+
+FROM PROJECT>>> VIEW ALL PROJECTS
+                CREATE A NEW PROJECT
+
+===========================================
+
+
+
+
+
+
+
